@@ -1,0 +1,2 @@
+game,player,dealer,play_sum,deal_sum,decision,Win_or_Loss,bet,new_bet,Bankroll,Deck_rest
+0,,,,,,,,,100000.0,
